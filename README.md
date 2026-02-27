@@ -66,7 +66,7 @@ Se quiser, posso também commitar a alteração e/ou rodar os scripts aqui para 
 </p>
 
 <h2> Ambientes de desenvolvimento </h2>
-<img width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode-logo"/>
+<img width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode-image"/>
 
 
 ## Autores 
