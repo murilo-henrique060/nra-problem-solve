@@ -11,7 +11,7 @@
 1. Clone o repositório:
 
 ```sh
-git clone <repo-url>
+git clone https://github.com/murilo-henrique060/nra-problem-solve.git
 cd nra-problem-solve
 ```
 
